@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Junzhou Xie 👋
+# Junzhou Xie
 
-**Master's student at Southeast University**
+**Southeast University, Nanjing**
 
 *Multimodal Large Language Models · Multimodal Generation · Continual Learning*
 
-[![Homepage](https://img.shields.io/badge/Homepage-junzhouxie.github.io-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://junzhouxie.github.io)
-[![Email](https://img.shields.io/badge/Email-junzhouxie@seu.edu.cn-red?style=flat-square&logo=gmail&logoColor=white)](mailto:junzhouxie@seu.edu.cn)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--9741--5466-green?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-9741-5466)
+[![Homepage](https://img.shields.io/badge/Homepage-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://junzhouxie.github.io)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:junzhouxie@seu.edu.cn)
+[![ORCID](https://img.shields.io/badge/ORCID-green?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-9741-5466)
 
 </div>
 
