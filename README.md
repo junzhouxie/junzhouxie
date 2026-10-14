@@ -26,31 +26,31 @@ I am a master's student at Southeast University. My research focuses on **Comput
 
 <small>**Junzhou Xie**, Haozhong Xiong, Xunyun Tian, Kaile Du, Tianchen Yu, Qiang Li, Wei Liu, Jiaming Liu, Ruihua Huang, Yang Shi, Guangcan Liu.</small>
 
-[[Paper](https://arxiv.org/abs/2610.05010)] [[Code](https://github.com/junzhouxie/PortraitAes)] [[BibTeX](bibtex.md)]
+[[Paper](https://arxiv.org/abs/2610.05010)] [[Code](https://github.com/junzhouxie/PortraitAes)]
 
 **DeCLIP: Decoupled Prompting for Multi-Label Class-Incremental Learning with CLIP** · *arXiv preprint, 2026.*
 
 <small>Kaile Du, Zihan Ye, **Junzhou Xie**, Yixi Shen, Yuyang Li, Fuyuan Hu, Ling Shao, Guangcan Liu, Joost van de Weijer, Fan Lyu.</small>
 
-[[Paper](https://arxiv.org/abs/2509.23335)] [[BibTeX](bibtex.md)]
+[[Paper](https://arxiv.org/abs/2509.23335)]
 
 **Rebalancing Multi-Label Class-Incremental Learning** · *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025.*
 
 <small>Kaile Du, Yifan Zhou, Fan Lyu, Yuyang Li, **Junzhou Xie**, Yixi Shen, Fuyuan Hu, Guangcan Liu.</small>
 
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33798)] [[BibTeX](bibtex.md)]
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33798)]
 
 **A negative-anchored self-relabeling strategy for multi-label class-incremental learning** · *Neurocomputing, 2026.*
 
 <small>Kaile Du, **Junzhou Xie**, Fan Lyu, Yifan Zhou, Zihan Ye, Guangcan Liu.</small>
 
-[[Paper](https://www.sciencedirect.com/science/article/pii/S0925231226016905)] [[BibTeX](bibtex.md)]
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0925231226016905)]
 
 **Negative-weighted knowledge distillation regularized graph convolutional network for multi-label class-incremental learning** · *Pattern Recognition (PR), 2026.*
 
 <small>Kaile Du, **Junzhou Xie**, Fan Lyu, Yifan Zhou, Zihan Ye, Wei Li, Yuyang Li, Guangcan Liu.</small>
 
-[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326006229)] [[BibTeX](bibtex.md)]
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326006229)]
 
 ---
 
