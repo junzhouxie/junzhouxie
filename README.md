@@ -16,7 +16,7 @@
 
 ## 🔬 About Me
 
-Welcome to my academic homepage! I am a master's student at **Southeast University**. My research focuses on computer vision, multimodal large language models, and multimodal generation, with specific interests in vision-language understanding, portrait image generation, and continual learning.
+Welcome to my academic homepage! I am a master's student at Southeast University. My research focuses on **Computer Vision**, **Multimodal Large Language Models**, and **Multimodal Generation**, with specific interests in vision-language understanding, portrait image generation, and continual learning.
 
 ---
 
