@@ -22,43 +22,33 @@ Welcome to my academic homepage! I am a master's student at Southeast University
 
 ## 📝 Selected Publications
 
-**PortraitAes: Intent-Conditioned Structured Portrait Aesthetic Assessment**
+**PortraitAes: Intent-Conditioned Structured Portrait Aesthetic Assessment** · *arXiv 2026*
 
-*arXiv 2026*
-
-**Junzhou Xie**, Haozhong Xiong, Xunyun Tian, Kaile Du, Tianchen Yu, Qiang Li, Wei Liu, Jiaming Liu, Ruihua Huang, Yang Shi, Guangcan Liu.
+<sub>**Junzhou Xie**, Haozhong Xiong, Xunyun Tian, Kaile Du, Tianchen Yu, Qiang Li, Wei Liu, Jiaming Liu, Ruihua Huang, Yang Shi, Guangcan Liu.</sub>
 
 [[Paper](https://arxiv.org/abs/2610.05010)] [[Code](https://github.com/junzhouxie/PortraitAes)]
 
-**DeCLIP: Decoupled Prompting for Multi-Label Class-Incremental Learning with CLIP**
+**DeCLIP: Decoupled Prompting for Multi-Label Class-Incremental Learning with CLIP** · *arXiv 2026*
 
-*arXiv 2026*
-
-Kaile Du, Zihan Ye, **Junzhou Xie**, Yixi Shen, Yuyang Li, Fuyuan Hu, Ling Shao, Guangcan Liu, Joost van de Weijer, Fan Lyu.
+<sub>Kaile Du, Zihan Ye, **Junzhou Xie**, Yixi Shen, Yuyang Li, Fuyuan Hu, Ling Shao, Guangcan Liu, Joost van de Weijer, Fan Lyu.</sub>
 
 [[Paper](https://arxiv.org/abs/2509.23335)]
 
-**Rebalancing Multi-Label Class-Incremental Learning**
+**Rebalancing Multi-Label Class-Incremental Learning** · *AAAI 2025*
 
-*AAAI 2025*
-
-Kaile Du, Yifan Zhou, Fan Lyu, Yuyang Li, **Junzhou Xie**, Yixi Shen, Fuyuan Hu, Guangcan Liu.
+<sub>Kaile Du, Yifan Zhou, Fan Lyu, Yuyang Li, **Junzhou Xie**, Yixi Shen, Fuyuan Hu, Guangcan Liu.</sub>
 
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33798)]
 
-**A negative-anchored self-relabeling strategy for multi-label class-incremental learning**
+**A negative-anchored self-relabeling strategy for multi-label class-incremental learning** · *Neurocomputing 2026*
 
-*Neurocomputing 2026*
-
-Kaile Du, **Junzhou Xie**, Fan Lyu, Yifan Zhou, Zihan Ye, Guangcan Liu.
+<sub>Kaile Du, **Junzhou Xie**, Fan Lyu, Yifan Zhou, Zihan Ye, Guangcan Liu.</sub>
 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231226016905)]
 
-**Negative-weighted knowledge distillation regularized graph convolutional network for multi-label class-incremental learning**
+**Negative-weighted knowledge distillation regularized graph convolutional network for multi-label class-incremental learning** · *Pattern Recognition 2026*
 
-*Pattern Recognition 2026*
-
-Kaile Du, **Junzhou Xie**, Fan Lyu, Yifan Zhou, Zihan Ye, Wei Li, Yuyang Li, Guangcan Liu.
+<sub>Kaile Du, **Junzhou Xie**, Fan Lyu, Yifan Zhou, Zihan Ye, Wei Li, Yuyang Li, Guangcan Liu.</sub>
 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326006229)]
 
